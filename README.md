@@ -1,1 +1,1 @@
-# todo
+# Placement assignment
